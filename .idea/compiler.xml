@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="My-Spring-MVC" />
+        <module name="My-Spring-IOC-注解版" />
+        <module name="My-Spring-IOC-XML版" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

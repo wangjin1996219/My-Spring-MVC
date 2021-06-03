@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <!--该配置文件声明扫描包的范围-->
+    <component-scan base-package="top.wangjin.main"></component-scan>
+
+</beans>
